@@ -5,4 +5,3 @@ dist = float(input('What is the total distance in km?'))
 
 total = 4 + 1.15*dist
 print(f'Okay, {name}. You are travelling from {loc} to {dest} which is {dist} kms and your total is {total}')
-
